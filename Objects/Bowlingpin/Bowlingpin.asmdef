@@ -1,0 +1,10 @@
+﻿{
+    "name": "Bowlingpin_0c565eef6a3c4d91b1a6da542c576fd8",
+    "references": [
+        "VarwinCore"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

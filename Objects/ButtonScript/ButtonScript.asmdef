@@ -1,0 +1,10 @@
+﻿{
+    "name": "ButtonScript_7fd06997597c43cda2e152eccdeb8c3b",
+    "references": [
+        "VarwinCore"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

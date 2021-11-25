@@ -1,0 +1,10 @@
+﻿{
+    "name": "BallController_4b8448ba92b449c0b9bbbf96e7b6d51c",
+    "references": [
+        "VarwinCore"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
